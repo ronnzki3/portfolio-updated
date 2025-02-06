@@ -46,7 +46,7 @@ const Works = () => {
                       <span className='d-inline p-2 bg-gray-200 rounded mx-1 text-sm'>JQuery/Ajax</span> 
                     </p>
                     {/* <a className='text-xs mx-auto inline-block py-2 px-4 bg-green-500 hover:bg-green-400 rounded-lg mt-5' href="https://mxdhub.great-site.net/" target="_blank" rel="noreferrer">Visit Site</a> */}
-                    <a className='text-xs text-white mx-auto inline-block py-3 px-7 bg-green-700 hover:bg-green-500 rounded-lg mt-5 mr-3' href="https://mxdhub.great-site.net/" target="_blank" rel="noreferrer">Visit</a>
+                    <a className='text-xs text-white mx-auto inline-block py-3 px-7 bg-green-700 hover:bg-green-500 rounded-lg mt-5 mr-3' href="https://mxdhub.kesug.com/" target="_blank" rel="noreferrer">Visit</a>
                     <a className='text-xs text-white mx-auto inline-block py-3 px-5 bg-green-700 hover:bg-green-500 rounded-lg mt-5' href="https://github.com/ronnzki3/self-ordering-system" target="_blank" rel="noreferrer">GitHub</a>
                   </div>
                 </div>
