@@ -13,7 +13,8 @@ const Navbar = () => {
     <div className='fixed w-full h-[80px] flex bg-[#070707] text-gray-300 justify-between px-4 py-5 z-40'>
         <div className='group z-50 hover:text-gray-600 cursor-pointer block ml-[0.5rem] mt-[-0.3rem]'>
                 <Link to="about" smooth={true} duration={1000}>
-                <span className='group-hover:text-red-300 text-[2rem] font-semibold rrtxt inline-block text-red-700'>R</span><span className='group-hover:text-blue-400 bbtxt text-[2rem] font-semibold ml-[-0.4rem] text-blue-700 inline-block'>B</span>
+                <span className='group-hover:text-red-400 text-[2rem] font-semibold rrtxt inline-block text-red-900'>R</span>
+                <span className='group-hover:text-blue-400 bbtxt text-[2rem] font-semibold ml-[-0.4rem] text-blue-900 inline-block'>B</span>
                 </Link>
         </div>
 

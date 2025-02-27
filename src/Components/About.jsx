@@ -8,9 +8,9 @@ function About() {
             {/* <div>
             <p className='text-2xl ml-8 font-bold inline border-b-4 border-pink-300 ease-in-out duration-500'>About me</p>
             </div> */}
-            <div className='flex flex-col md:flex-col mt-16 min-h-[300px] justify-center items-center'>
-              <div className='myid-photo mx-auto'>             
-              </div>
+            <div className='flex flex-col md:flex-col mt-16 min-h-[300px] justify-center items-center'>              
+                <div className='myid-photo mx-auto'>             
+                </div>
               <div className=' mx-auto max-w-[550px] mt-7 sm:mx-auto md:mx-0 px-5'>
                   <p className='first-letter:uppercase first-line:tracking-widest
   first-letter:text-8xl first-letter:font-bold first-letter:text-slate-900

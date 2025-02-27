@@ -76,6 +76,15 @@ font-size: 1rem;
   height: 200px;
   border-radius: 50%;
 }
+.myid-photo::after{
+  content: '';
+  display: inline-flex;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 5px solid #eee ;
+}
+
 .dentalImage{
   background-image: url('Assets/dental.png');
   background-repeat: no-repeat;
@@ -83,17 +92,18 @@ font-size: 1rem;
   background-size: cover;
 }
 .flgImage{
-  background-image: url('Assets/flg.png');
+  background-image: url('Assets/fulgie.gif');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   background-position: 0 0;
 }
 .mxImage{
-  background-image: url('Assets/mxx.png');
+  background-image: url('Assets/mxdhub.gif');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
+  background-size: auto;
+  background-position: 0 0;
 }
 .lvImage{
   background-image: url('Assets/lvbanner.png');
